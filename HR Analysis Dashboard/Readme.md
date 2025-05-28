@@ -9,6 +9,10 @@ This repository contains an HR Analytics project built using **Microsoft Power B
 The **HR Dashboard** provides a comprehensive analysis of key human resource metrics for a workforce of 1,470 employees. It includes visuals and KPIs that reflect employee demographics, job levels, promotion eligibility, retrenchment status, job roles, and satisfaction metrics.
 
 ---
+## 🖼️ Dashboard Preview
+![Dashboard](Exports/Screenshots/home.JPG?raw=true&width=300)
+![Dashboard](Exports/Screenshots/Action.JPG?raw=true&width=300)
+![Dashboard](Exports/Screenshots/Detail.JPG?raw=true&width=300)
 
 ## 📌 Key Insights
 
